@@ -16,7 +16,7 @@ If you have something awesome to contribute to the [Awesome Technical Communicat
 
 7. Push your changes to the remote.
 
-8. Submit a Pull Request.
+8. Submit an Pull Request.
 
     1. Navigate to the original upstream repository (this repo).
     2. Click the **Compare & pull request** button.

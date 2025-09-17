@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # Awesome Technical Communication [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Just for Testing!
+
 A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing), [DevRel (developer relations)](https://developerrelations.com/guides/what-is-developer-relations/), [open source](https://en.wikipedia.org/wiki/Open_source), and community.
 
 **Table of Contents:**
@@ -20,7 +22,7 @@ A curated list of awesome resources about [technical communication](https://en.w
 
 This section lists the selected resources in English.
 
-### 🏫 Organizations
+### 🏫 Organization
 
 - [Write the Docs](https://www.writethedocs.org/)
   - [Write the Docs · YouTube channel](https://www.youtube.com/@writethedocs): conference videos
@@ -230,3 +232,4 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549)<!--([PDF](/r
     <img alt="Star Geographical Distribution of lilin90/awesome-technical-communication" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=244162340&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
+
